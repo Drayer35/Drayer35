@@ -1,6 +1,6 @@
 <div style="background-color: #4CAF50; padding: 20px;">
   <div align="center">
-    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/31aec177-7cf9-40ba-a960-ed0521b8b392" alt="gift2" style="width: 200px;">
+    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/31aec177-7cf9-40ba-a960-ed0521b8b392" alt="gift2" >
   </div>
 </div>
 
