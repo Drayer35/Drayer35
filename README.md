@@ -6,8 +6,11 @@
   </div>
 </div>
 
-### ABOUT ME![logo-laravel-icon-1024](https://github.com/Drayer35/Drayer35/assets/85105872/8c0bed30-9828-4024-929e-147eacbba1f1)
+### ABOUT ME
 
+<div align="center">
+  <img src="https://github.com/Drayer35/Drayer35/assets/85105872/8c0bed30-9828-4024-929e-147eacbba1f1" alt="logo-laravel-icon-1024" width="200px">
+</div>
 
 I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.
 
