@@ -29,7 +29,7 @@ The secondary color is `hsl(212, 92%, 45%)` for our theme.
 
 <table>
   <tr>
-    <h2 stlye="color: blue;">PHP</h2>
+    <h2 stlye="color: hsl(212, 92%, 45%);">PHP</h2>
     <td align="center" style="padding: 10px; border:none;">
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
       <p>Laravel</p>
