@@ -5,7 +5,7 @@
 
 ## 👋 ¡Hola Mundo! 
 
-### Sobre Mí
+### ABOUT ME
 
 I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.
 
@@ -13,11 +13,10 @@ My experience spans the design and development of web applications using technol
 I possess the ability to collaborate effectively and communicate clearly with others.
 
 Moreover, I am an empathetic person, which allows me to understand and consider the perspectives and needs of my colleagues. My approach is not only to deliver results but to do so in a way that fosters a positive and productive work environment."
-### Mis Pasiones
+### MI SKILLS
 
-- 💻 Desarrollo Web y Aplicaciones
-- 🚀 Aprendizaje Constante y Desafíos Creativos
-- 🌐 Contribuir a la Comunidad Open Source
+- 💻 Web Development and Applications
+- 🚀 Constant Learning and Creative Challenges
 
 ### Habilidades en Desarrollo
 
