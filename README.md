@@ -21,7 +21,7 @@
 <h1>Technologies</h1>
 <div align="center">
   <h2>Php </h2>
-  <div align="center">
+  <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <div>
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
       <p>Laravel</p>
