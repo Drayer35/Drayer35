@@ -6,7 +6,7 @@
   </div>
 </div>
 
-### ABOUT ME
+<h3 style="color: #FF6347;">ABOUT ME</h3>
 
 <div align="center">
   <img src="https://github.com/Drayer35/Drayer35/assets/85105872/8c0bed30-9828-4024-929e-147eacbba1f1" alt="logo-laravel-icon-1024" width="200px">
