@@ -1,10 +1,10 @@
-<div style="background-color: #4CAF50; padding: 20px;">
-  <h1 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h1>
-</div>
+# Título sobre el banner
 
 ## 👋 Hello World!![gift2](https://github.com/Drayer35/Drayer35/assets/85105872/50cb5d6d-cc58-4d29-a92d-789af1f9f8f9)
 
-
+<div style="background-color: #4CAF50; padding: 20px;">
+  <h2 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h2>
+</div>
 
 ### ABOUT ME
 
