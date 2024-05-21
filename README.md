@@ -11,8 +11,6 @@
 <div align="center">
   
  ![Laravel](https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa)
-
-
 ![Livewire-ezgif com-gif-maker](https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce)
 
 
