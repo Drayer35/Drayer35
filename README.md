@@ -18,7 +18,7 @@
 - 🚀 Constant Learning and Creative Challenges
 
 <h1>Technologies</h1>
-<div style="display: flex; justify-content: space-around;">
+<div class="flex-container">
   <div align="center" style="margin: 10px;">
     <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
     <p>Laravel</p>
