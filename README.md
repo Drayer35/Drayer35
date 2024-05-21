@@ -1,12 +1,13 @@
 # Título sobre el banner
 
-## 👋 Hello World!![gift2](https://github.com/Drayer35/Drayer35/assets/85105872/50cb5d6d-cc58-4d29-a92d-789af1f9f8f9)
+## 👋 Hello World!!
 
 <div style="background-color: #4CAF50; padding: 20px;">
   <h2 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h2>
 </div>
 
 ### ABOUT ME
+![gift3](https://github.com/Drayer35/Drayer35/assets/85105872/10257000-c238-4f29-a586-65579eeb93d5)
 
 I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.
 
