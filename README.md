@@ -3,18 +3,23 @@
 <h1 align="center"> Hi there, Im Franco Monrroy 🐺 </h1>
 
 
-<button>HOLA</button>
-<!--
-**Drayer35/Drayer35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola Mundo! 
 
-Here are some ideas to get you started:
+### Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Saludos! Soy [tu nombre], un entusiasta aprendiz de programación y amante de la tecnología. Actualmente explorando el vasto universo del desarrollo de software, ¡y emocionado por cada línea de código que escribo!
+
+### Mis Pasiones
+
+- 💻 Desarrollo Web y Aplicaciones
+- 🚀 Aprendizaje Constante y Desafíos Creativos
+- 🌐 Contribuir a la Comunidad Open Source
+
+### Habilidades en Desarrollo
+
+```javascript
+const skills = {
+  lenguajes: ['JavaScript', 'Python', 'Java'],
+  frameworks: ['React', 'Node.js', 'Express'],
+  herramientas: ['Git', 'VS Code', 'GitHub']
+};
