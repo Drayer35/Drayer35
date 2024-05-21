@@ -28,7 +28,7 @@
   <tr>
     <td align="center" style="padding: 10px; border: none;">
       <div>
-        <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
+        <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa"                 alt="Laravel" width="80px">
         <p>Laravel</p>
       </div>
       <div>
