@@ -25,6 +25,7 @@
 - Promoting a positive and productive work environment
 
 ### TECHNOLOGIES
+The secondary color is `hsl(212, 92%, 45%)` for our theme.
 
 <table>
   <tr>
