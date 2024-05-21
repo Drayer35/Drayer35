@@ -4,7 +4,7 @@
   </div>
 </div>
 
-### ABOUT ME  `#23B687` 
+### ABOUT ME ` 
 
 <p>I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.</p>
 
@@ -15,7 +15,7 @@
 ### SKILLS
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
-
+The background color is  `#23B687 for light mode and `#000000` for dark mode.
 
 ### SOFT SKILLS
 - Meeting deadlines 
