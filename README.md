@@ -1,7 +1,8 @@
 <div style="background-color: #4CAF50; padding: 20px;">
   <h1 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h1>
   <div align="center">
-    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/50cb5d6d-cc58-4d29-a92d-789af1f9f8f9" alt="gift2" />
+![gift4](https://github.com/Drayer35/Drayer35/assets/85105872/2f3491ca-7d60-4de2-977c-ade55e9967e7)
+
   </div>
 </div>
 
