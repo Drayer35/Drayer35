@@ -18,7 +18,7 @@
 - 🚀 Constant Learning and Creative Challenges
 
 <h1>Technologies</h1>
-<div align="center">
+<div>
   <h2>Php </h2>
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin: 10px;">
