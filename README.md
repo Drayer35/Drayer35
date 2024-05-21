@@ -1,5 +1,5 @@
 <div style="background-color: #4CAF50; padding: 20px;">
-  <h1 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h1>
+
   <div align="center">
 
 ![gift2](https://github.com/Drayer35/Drayer35/assets/85105872/31aec177-7cf9-40ba-a960-ed0521b8b392)
