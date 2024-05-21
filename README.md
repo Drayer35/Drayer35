@@ -18,18 +18,20 @@
 - 🚀 Constant Learning and Creative Challenges
 
 <h1>Technologies</h1>
-<h2>PHP </h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div align="center" style="margin: 10px;">
-    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="60px">
-    <p>Laravel</p>
-  </div>
-  <div align="center" style="margin: 10px;">
-    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce" alt="Livewire" width="60px">
-    <p>Livewire</p>
-  </div>  
-  <div align="center" style="margin: 10px;">
-    <img src="https://github.com/Drayer35/Drayer35/assets/85105872/35604de5-773c-413c-a94c-4e3e1dc1c243" alt="Tailwind" width="60px">
-    <p>Tailwind</p>
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
+      <p>Laravel</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce" alt="Livewire" width="80px">
+      <p>Livewire</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/Drayer35/Drayer35/assets/85105872/35604de5-773c-413c-a94c-4e3e1dc1c243" alt="Tailwind" width="80px">
+      <p>Tailwind</p>
+    </td>
+  </tr>
+</table>
