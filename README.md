@@ -8,14 +8,7 @@
 
 <h3 style="color: #FF6347;">ABOUT ME</h3>
 
-<div align="center">
-  
- ![Laravel](https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa)
-![Livewire-ezgif com-gif-maker](https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce)
 
-
-
-</div>
 
 I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.
 
@@ -27,3 +20,14 @@ Moreover, I am an empathetic person, which allows me to understand and consider 
 
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
+
+
+<h1>Technologies</h1>
+<div align="center">
+  
+ ![Laravel](https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa)
+![Livewire-ezgif com-gif-maker](https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce)
+
+
+
+</div>
