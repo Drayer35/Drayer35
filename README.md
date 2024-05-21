@@ -20,7 +20,7 @@
 <h1>Technologies</h1>
 <div>
   <h2>Php </h2>
-  <div  style="display: flex; justify-content: center; align-items: center;">
+  <div  style="display: flex">
     <div  align="center"  style="margin: 10px;">
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
       <p>Laravel</p>
