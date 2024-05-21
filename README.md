@@ -7,7 +7,7 @@
 
 ### Sobre Mí
 
-¡Saludos! Soy [tu nombre], un entusiasta aprendiz de programación y amante de la tecnología. Actualmente explorando el vasto universo del desarrollo de software, ¡y emocionado por cada línea de código que escribo!
+¡Saludos! Soy Franco Monrroy, un entusiasta aprendiz de programación y amante de la tecnología. Actualmente explorando el vasto universo del desarrollo de software, ¡y emocionado por cada línea de código que escribo!
 
 ### Mis Pasiones
 
