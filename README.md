@@ -15,7 +15,7 @@
 ### SKILLS
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 **This text is _extremely_ important**
 ### SOFT SKILLS
 - Meeting deadlines 
