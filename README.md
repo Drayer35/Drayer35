@@ -5,7 +5,6 @@
 </picture>
 <div style="background-color: #4CAF50; padding: 20px;">
   <div align="center">
-![dark]()
 
   </div>
 </div>
