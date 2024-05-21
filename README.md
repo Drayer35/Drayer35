@@ -11,6 +11,7 @@
 <div align="center">
   
  ![Laravel](https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa)
+![Livewire](https://github.com/Drayer35/Drayer35/assets/85105872/a6cae9a4-00ba-4241-8348-5b7ba187d654)
 
 </div>
 
