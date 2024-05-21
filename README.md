@@ -14,16 +14,8 @@ My experience spans the design and development of web applications using technol
 I possess the ability to collaborate effectively and communicate clearly with others.
 
 Moreover, I am an empathetic person, which allows me to understand and consider the perspectives and needs of my colleagues. My approach is not only to deliver results but to do so in a way that fosters a positive and productive work environment."
-### MI SKILLS
+### SKILLS
 
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
 
-### Habilidades en Desarrollo
-
-```javascript
-const skills = {
-  lenguajes: ['JavaScript', 'Python', 'Java'],
-  frameworks: ['React', 'Node.js', 'Express'],
-  herramientas: ['Git', 'VS Code', 'GitHub']
-};
