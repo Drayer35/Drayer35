@@ -2,8 +2,7 @@
   <h1 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h1>
   <div align="center">
 
-
-![ezgif com-video-to-gif-converter](https://github.com/Drayer35/Drayer35/assets/85105872/85f73cc2-b2f8-495a-b19a-4f93c4bbc2ff)
+![gift2](https://github.com/Drayer35/Drayer35/assets/85105872/31aec177-7cf9-40ba-a960-ed0521b8b392)
 
 
   </div>
