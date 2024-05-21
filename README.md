@@ -20,16 +20,16 @@
 <h1>Technologies</h1>
 <div>
   <h2>Php </h2>
-  <div display="flex" style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin: 10px;">
+  <div  style="display: flex; justify-content: center; align-items: center;">
+    <div  align="center"  style="margin: 10px;">
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/04870180-e93d-4123-a473-3c92adcda3fa" alt="Laravel" width="80px">
       <p>Laravel</p>
     </div>
-    <div style="margin: 10px;">
+    <div align="center" style="margin: 10px;">
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/928a65ab-3d22-4a35-81b3-64ef7bbf18ce" alt="Livewire" width="80px">
       <p>Livewire</p>
     </div>  
-    <div style="margin: 10px;">
+    <div align="center"  style="margin: 10px;">
       <img src="https://github.com/Drayer35/Drayer35/assets/85105872/35604de5-773c-413c-a94c-4e3e1dc1c243" alt="Tailwind" width="80px">
       <p>Tailwind</p>
     </div>
