@@ -4,7 +4,7 @@
   </div>
 </div>
 
-<h3 style="color: #FF6347;">ABOUT ME</h3>
+<h1 style="color: #FF6347;">ABOUT ME  `#23B687` </h1>
 
 <p>I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.</p>
 
@@ -12,12 +12,12 @@
 
 <p>Moreover, I am an empathetic person, which allows me to understand and consider the perspectives and needs of my colleagues. My approach is not only to deliver results but to do so in a way that fosters a positive and productive work environment.</p>
 
-<h1>SKILLS</h1>
+###SKILLS
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
 
 
-<h1>SOFT SKILLS</h1>
+###SOFT SKILLS
 - Meeting deadlines 
 - Effective collaboration
 - Empathy with coworkers
