@@ -1,6 +1,5 @@
 <div style="background-color: #4CAF50; padding: 20px;">
-  <h1 align="center"> Título sobre el GIF </h1>
-  <h2 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h2>
+  <h1 align="center"> Hi there, I'm <span style="color: #25B76C;"> Franco Monrroy 🐺</span> </h1>
   <div align="center">
     <img src="https://github.com/Drayer35/Drayer35/assets/85105872/50cb5d6d-cc58-4d29-a92d-789af1f9f8f9" alt="gift2" />
   </div>
