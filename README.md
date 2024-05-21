@@ -4,7 +4,7 @@
   </div>
 </div>
 
-<h1 style="color: #FF6347;">ABOUT ME  `#23B687` </h1>
+### ABOUT ME  `#23B687` 
 
 <p>I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.</p>
 
