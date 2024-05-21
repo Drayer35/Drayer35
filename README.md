@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drayer35/Drayer35/assets/85105872/31aec177-7cf9-40ba-a960-ed0521b8b392">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Drayer35/Drayer35/assets/85105872/9979163b-ae72-40cc-8042-dc5a66795860">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Drayer35/Drayer35/assets/85105872/b7f72d29-a4f4-4cf1-abdc-bf937e4dad0e">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 <div style="background-color: #4CAF50; padding: 20px;">
