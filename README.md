@@ -5,6 +5,7 @@
 </picture>
 
 
+![ligth](https://github.com/Drayer35/Drayer35/assets/85105872/9979163b-ae72-40cc-8042-dc5a66795860)
 
 
 <div style="background-color: #4CAF50; padding: 20px;">
