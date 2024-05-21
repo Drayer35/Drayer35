@@ -16,7 +16,7 @@
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
 
-
+**This text is _extremely_ important**
 ### SOFT SKILLS
 - Meeting deadlines 
 - Effective collaboration
