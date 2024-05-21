@@ -16,7 +16,6 @@
 - 💻 Web Development and Applications
 - 🚀 Constant Learning and Creative Challenges
 
-<h3 style="color: #FF6347;">ABOUT ME</h3>
 ### SOFT SKILLS
 - Meeting deadlines 
 - Effective collaboration
