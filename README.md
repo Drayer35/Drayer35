@@ -6,7 +6,7 @@
 
 ### ABOUT ME 
 
-<p>I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.</p>
+<p style="color: 	`hsl(212, 92%, 45%)`;" >I focus on addressing the development of elegant and user-friendly solutions, employing best practices and committed to meeting established project deadlines.</p>
 
 <p>My experience spans the design and development of web applications using technologies such as Laravel and Livewire. I have a strong command of these and associated complementary technologies. I possess the ability to collaborate effectively and communicate clearly with others.</p>
 
