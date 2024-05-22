@@ -18,16 +18,7 @@
 
 <p>Moreover, I am an empathetic person, which allows me to understand and consider the perspectives and needs of my colleagues. My approach is not only to deliver results but to do so in a way that fosters a positive and productive work environment.</p>
 
-### SKILLS
-- 💻 Web Development and Applications
-- 🚀 Constant Learning and Creative Challenges
 
-### SOFT SKILLS
-- Meeting deadlines 
-- Effective collaboration
-- Empathy with coworkers
-- Clear communication
-- Promoting a positive and productive work environment
 
 ### TECHNOLOGIES
 <table>
